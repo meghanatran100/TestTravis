@@ -4,7 +4,7 @@ jdk:
 
 addons:
   sonarcloud:
-    organization: meghanatran100
+    organization: meghanatran100-github
     token: asdhjrlakjetwoihe39204iejhkawek
 script:
 - ant build
