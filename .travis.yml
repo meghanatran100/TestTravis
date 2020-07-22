@@ -5,7 +5,7 @@ jdk:
 addons:
   sonarcloud:
     organization: meghanatran100
-    token: travis encrypt asdhjrlakjetwoihe39204iejhkawek
+    token: asdhjrlakjetwoihe39204iejhkawek
 script:
 - ant build
 - sonar-scanner
